@@ -12,20 +12,23 @@ Il giocatore veste i panni del capitano della **Blue Mantis**, una nave da bount
 - Gradle
 
 ### Istruzioni
-
+Aprire powershell come amministratore e far partire i seguenti comandi uno dopo l'altro
 ```bash
+winget install EclipseAdoptium.Temurin.25.JDK
+
+java -version
+
 git clone https://github.com/valeriovirgili12/it.unicam.mpgc.rpg126421.git
+
 cd it.unicam.mpgc.rpg126421
 ```
-
-### Build del progetto
 ```bash
-./gradlew build
+Windows (PowerShell):
+.\gradlew.bat build
 ```
-
-### Esecuzione
 ```bash
-./gradlew run
+Windows (PowerShell):
+.\gradlew.bat run
 ```
 
 ---
