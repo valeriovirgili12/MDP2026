@@ -14,7 +14,7 @@ Il giocatore veste i panni del capitano della **Blue Mantis**, una nave da bount
 ### Istruzioni
 
 ```bash
-git clone https://github.com/<utente>/it.unicam.mpgc.rpg126421.git
+git clone https://github.com/valeriovirgili12/it.unicam.mpgc.rpg126421.git
 cd it.unicam.mpgc.rpg126421
 ```
 
